@@ -1,5 +1,5 @@
 import store from './store.js';
-import { initLayout, money } from './layout.js';
+import { initLayout, money, imgSrc } from './layout.js';
 
 document.addEventListener('DOMContentLoaded', () => {
   initLayout('rentals');
@@ -11,9 +11,10 @@ document.addEventListener('DOMContentLoaded', () => {
     return;
   }
   document.title = `${r.title} | Gulf Coast Estates`;
+  const photo = imgSrc(r.image);
   el.innerHTML = `
     <div class="detail-hero">
-      <div class="detail-media" style="--hue:${r.imageHue};--img:url('${r.image || ''}')"></div>
+      <div class="detail-media" style="--hue:${r.imageHue}">${photo ? `<img class="listing-photo" src="${photo}" alt="">` : ''}</div>
       <div>
         <div class="eyebrow">${r.complex || 'Gulf Shores'} · ${r.zip}</div>
         <h1>${r.title}</h1>

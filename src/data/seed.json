@@ -40,7 +40,7 @@
       "rating": 4.73,
       "reviewsCount": 64,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-bel-sole-603",
@@ -81,7 +81,7 @@
       "rating": 4.59,
       "reviewsCount": 22,
       "gulf_front": null,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-boardwalk-284",
@@ -123,7 +123,7 @@
       "rating": 4.59,
       "reviewsCount": 12,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-boardwalk-585",
@@ -165,7 +165,7 @@
       "rating": 4.68,
       "reviewsCount": 31,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-boardwalk-886",
@@ -207,7 +207,7 @@
       "rating": 4.91,
       "reviewsCount": 33,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-caribbean-102",
@@ -249,7 +249,7 @@
       "rating": 4.83,
       "reviewsCount": 54,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-caribbean-320",
@@ -291,7 +291,7 @@
       "rating": 4.86,
       "reviewsCount": 24,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-caribbean-324",
@@ -333,7 +333,7 @@
       "rating": 4.71,
       "reviewsCount": 73,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-caribbean-325",
@@ -375,7 +375,7 @@
       "rating": 4.85,
       "reviewsCount": 6,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-caribbean-326",
@@ -417,7 +417,7 @@
       "rating": 4.66,
       "reviewsCount": 83,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-caribbean-413",
@@ -459,7 +459,7 @@
       "rating": 4.57,
       "reviewsCount": 109,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-caribbean-425",
@@ -501,7 +501,7 @@
       "rating": 4.63,
       "reviewsCount": 22,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-casa-del-sol-d1",
@@ -543,7 +543,7 @@
       "rating": 4.69,
       "reviewsCount": 122,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-casa-del-sol-d2",
@@ -585,7 +585,7 @@
       "rating": 4.6,
       "reviewsCount": 121,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-casa-del-sol-e1",
@@ -627,7 +627,7 @@
       "rating": 4.62,
       "reviewsCount": 89,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-casa-del-sol-e2",
@@ -669,7 +669,7 @@
       "rating": 4.73,
       "reviewsCount": 57,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-casa-del-sol-g1",
@@ -711,7 +711,7 @@
       "rating": 4.65,
       "reviewsCount": 11,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-castaways-1c",
@@ -753,7 +753,7 @@
       "rating": 4.58,
       "reviewsCount": 45,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-clearwater-3a",
@@ -795,7 +795,7 @@
       "rating": 4.63,
       "reviewsCount": 121,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-compass-point-309",
@@ -836,7 +836,7 @@
       "rating": 4.68,
       "reviewsCount": 92,
       "gulf_front": false,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-crystal-shores-1403",
@@ -878,7 +878,7 @@
       "rating": 4.91,
       "reviewsCount": 101,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-crystal-shores-201",
@@ -920,7 +920,7 @@
       "rating": 4.61,
       "reviewsCount": 15,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-crystal-shores-204",
@@ -962,7 +962,7 @@
       "rating": 4.62,
       "reviewsCount": 108,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-crystal-shores-402",
@@ -1004,7 +1004,7 @@
       "rating": 4.56,
       "reviewsCount": 41,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-crystal-shores-406",
@@ -1046,7 +1046,7 @@
       "rating": 4.63,
       "reviewsCount": 65,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-crystal-shores-506",
@@ -1088,7 +1088,7 @@
       "rating": 4.6,
       "reviewsCount": 6,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-crystal-shores-603",
@@ -1130,7 +1130,7 @@
       "rating": 4.57,
       "reviewsCount": 41,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-crystal-shores-604",
@@ -1172,7 +1172,7 @@
       "rating": 4.65,
       "reviewsCount": 45,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-crystal-shores-702",
@@ -1214,7 +1214,7 @@
       "rating": 4.6,
       "reviewsCount": 116,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-crystal-shores-705",
@@ -1256,7 +1256,7 @@
       "rating": 4.72,
       "reviewsCount": 47,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-crystal-shores-903",
@@ -1298,7 +1298,7 @@
       "rating": 4.77,
       "reviewsCount": 72,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-crystal-shores-west",
@@ -1340,7 +1340,7 @@
       "rating": 4.86,
       "reviewsCount": 38,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-crystal-shores-west-1004",
@@ -1382,7 +1382,7 @@
       "rating": 4.57,
       "reviewsCount": 22,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-crystal-shores-west-101",
@@ -1424,7 +1424,7 @@
       "rating": 4.93,
       "reviewsCount": 13,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-crystal-shores-west-1108",
@@ -1466,7 +1466,7 @@
       "rating": 4.76,
       "reviewsCount": 71,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-crystal-shores-west-204",
@@ -1508,7 +1508,7 @@
       "rating": 4.59,
       "reviewsCount": 19,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-bb-crystal-shores-west-306",
@@ -1550,7 +1550,7 @@
       "rating": 4.6,
       "reviewsCount": 94,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-crystal-shores-west-307",
@@ -1592,7 +1592,7 @@
       "rating": 4.85,
       "reviewsCount": 51,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-crystal-shores-west-403",
@@ -1634,7 +1634,7 @@
       "rating": 4.61,
       "reviewsCount": 93,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-crystal-shores-west-507",
@@ -1676,7 +1676,7 @@
       "rating": 4.77,
       "reviewsCount": 11,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-crystal-shores-west-603",
@@ -1718,7 +1718,7 @@
       "rating": 4.77,
       "reviewsCount": 116,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-crystal-shores-west-706",
@@ -1760,7 +1760,7 @@
       "rating": 4.64,
       "reviewsCount": 31,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-bb-crystal-shores-west-803",
@@ -1802,7 +1802,7 @@
       "rating": 4.58,
       "reviewsCount": 32,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-crystal-shores-west-808",
@@ -1844,7 +1844,7 @@
       "rating": 4.69,
       "reviewsCount": 58,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-crystal-shores-west-906",
@@ -1886,7 +1886,7 @@
       "rating": 4.59,
       "reviewsCount": 65,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-crystal-tower-1606",
@@ -1927,7 +1927,7 @@
       "rating": 4.61,
       "reviewsCount": 121,
       "gulf_front": false,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-crystal-tower-1806",
@@ -1969,7 +1969,7 @@
       "rating": 4.56,
       "reviewsCount": 13,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-crystal-tower-2005",
@@ -2011,7 +2011,7 @@
       "rating": 4.55,
       "reviewsCount": 82,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-crystal-tower-2007",
@@ -2052,7 +2052,7 @@
       "rating": 4.71,
       "reviewsCount": 8,
       "gulf_front": false,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-crystal-tower-303",
@@ -2093,7 +2093,7 @@
       "rating": 4.71,
       "reviewsCount": 14,
       "gulf_front": false,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-ll-crystal-tower-706",
@@ -2134,7 +2134,7 @@
       "rating": 4.62,
       "reviewsCount": 8,
       "gulf_front": false,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-crystal-tower-807",
@@ -2175,7 +2175,7 @@
       "rating": 4.78,
       "reviewsCount": 87,
       "gulf_front": false,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-crystal-tower-809",
@@ -2216,7 +2216,7 @@
       "rating": 4.92,
       "reviewsCount": 51,
       "gulf_front": null,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-crystal-tower-902",
@@ -2257,7 +2257,7 @@
       "rating": 4.61,
       "reviewsCount": 13,
       "gulf_front": false,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-harris-dolphin-view-mustique-1801",
@@ -2298,7 +2298,7 @@
       "rating": 4.59,
       "reviewsCount": 47,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-edgewater-west-61",
@@ -2340,7 +2340,7 @@
       "rating": 4.57,
       "reviewsCount": 98,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-edgewater-west-62",
@@ -2382,7 +2382,7 @@
       "rating": 4.79,
       "reviewsCount": 31,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-edgewater-west-94",
@@ -2424,7 +2424,7 @@
       "rating": 4.75,
       "reviewsCount": 43,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-grand-beach-resort-201",
@@ -2466,7 +2466,7 @@
       "rating": 4.66,
       "reviewsCount": 104,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-grand-beach-resort-207",
@@ -2508,7 +2508,7 @@
       "rating": 4.55,
       "reviewsCount": 65,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-grand-beach-resort-212",
@@ -2550,7 +2550,7 @@
       "rating": 4.9,
       "reviewsCount": 50,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-grand-beach-resort-304",
@@ -2592,7 +2592,7 @@
       "rating": 4.63,
       "reviewsCount": 107,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-grand-beach-resort-402",
@@ -2634,7 +2634,7 @@
       "rating": 4.64,
       "reviewsCount": 52,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-gulf-house-605",
@@ -2675,7 +2675,7 @@
       "rating": 4.83,
       "reviewsCount": 45,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-ll-gulf-shores-plantation-4410",
@@ -2717,7 +2717,7 @@
       "rating": 4.82,
       "reviewsCount": 16,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-gulf-shores-surf-and-racquet-204a",
@@ -2759,7 +2759,7 @@
       "rating": 4.94,
       "reviewsCount": 70,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-gulf-shores-surf-and-racquet-216a",
@@ -2801,7 +2801,7 @@
       "rating": 4.88,
       "reviewsCount": 111,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-gulfside-townhomes-10",
@@ -2843,7 +2843,7 @@
       "rating": 4.73,
       "reviewsCount": 17,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-island-royale-105-penthouse",
@@ -2885,7 +2885,7 @@
       "rating": 4.72,
       "reviewsCount": 43,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-island-royale-304",
@@ -2927,7 +2927,7 @@
       "rating": 4.61,
       "reviewsCount": 23,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-island-royale-403",
@@ -2969,7 +2969,7 @@
       "rating": 4.87,
       "reviewsCount": 13,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-island-royale-502",
@@ -3011,7 +3011,7 @@
       "rating": 4.65,
       "reviewsCount": 85,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-island-royale-506",
@@ -3053,7 +3053,7 @@
       "rating": 4.58,
       "reviewsCount": 5,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-island-royale-506-penthouse",
@@ -3095,7 +3095,7 @@
       "rating": 4.76,
       "reviewsCount": 84,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-island-royale-601",
@@ -3137,7 +3137,7 @@
       "rating": 4.59,
       "reviewsCount": 16,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-bb-island-royale-902",
@@ -3179,7 +3179,7 @@
       "rating": 4.66,
       "reviewsCount": 72,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-island-royale-903",
@@ -3221,7 +3221,7 @@
       "rating": 4.92,
       "reviewsCount": 27,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-island-shores-257",
@@ -3263,7 +3263,7 @@
       "rating": 4.57,
       "reviewsCount": 83,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-island-shores-350",
@@ -3305,7 +3305,7 @@
       "rating": 4.63,
       "reviewsCount": 34,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-island-shores-551",
@@ -3347,7 +3347,7 @@
       "rating": 4.63,
       "reviewsCount": 9,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-island-sunrise-268",
@@ -3388,7 +3388,7 @@
       "rating": 4.57,
       "reviewsCount": 15,
       "gulf_front": null,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-island-sunrise-463",
@@ -3430,7 +3430,7 @@
       "rating": 4.89,
       "reviewsCount": 54,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-island-sunrise-464",
@@ -3472,7 +3472,7 @@
       "rating": 4.9,
       "reviewsCount": 6,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-island-tower-1001",
@@ -3514,7 +3514,7 @@
       "rating": 4.91,
       "reviewsCount": 75,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-island-tower-1101",
@@ -3556,7 +3556,7 @@
       "rating": 4.59,
       "reviewsCount": 10,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-island-tower-1502",
@@ -3598,7 +3598,7 @@
       "rating": 4.77,
       "reviewsCount": 94,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-island-tower-1601",
@@ -3640,7 +3640,7 @@
       "rating": 4.81,
       "reviewsCount": 75,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-island-tower-1702",
@@ -3682,7 +3682,7 @@
       "rating": 4.89,
       "reviewsCount": 12,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-island-tower-1902",
@@ -3724,7 +3724,7 @@
       "rating": 4.72,
       "reviewsCount": 39,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-island-tower-2502",
@@ -3766,7 +3766,7 @@
       "rating": 4.75,
       "reviewsCount": 114,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-island-tower-2602-penthouse",
@@ -3808,7 +3808,7 @@
       "rating": 4.72,
       "reviewsCount": 23,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-island-tower-602",
@@ -3850,7 +3850,7 @@
       "rating": 4.9,
       "reviewsCount": 89,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-island-tower-603",
@@ -3892,7 +3892,7 @@
       "rating": 4.67,
       "reviewsCount": 42,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-island-tower-803",
@@ -3934,7 +3934,7 @@
       "rating": 4.75,
       "reviewsCount": 95,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-island-tower-902",
@@ -3976,7 +3976,7 @@
       "rating": 4.94,
       "reviewsCount": 78,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-island-winds-east-304",
@@ -4018,7 +4018,7 @@
       "rating": 4.57,
       "reviewsCount": 81,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-island-winds-east-310",
@@ -4060,7 +4060,7 @@
       "rating": 4.89,
       "reviewsCount": 77,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-island-winds-east-505",
@@ -4102,7 +4102,7 @@
       "rating": 4.87,
       "reviewsCount": 67,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-island-winds-east-511",
@@ -4143,7 +4143,7 @@
       "rating": 4.88,
       "reviewsCount": 36,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-ll-island-winds-east-805",
@@ -4185,7 +4185,7 @@
       "rating": 4.87,
       "reviewsCount": 79,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-island-winds-west-180",
@@ -4227,7 +4227,7 @@
       "rating": 4.63,
       "reviewsCount": 33,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-island-winds-west-670",
@@ -4269,7 +4269,7 @@
       "rating": 4.8,
       "reviewsCount": 61,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-island-winds-west-680",
@@ -4311,7 +4311,7 @@
       "rating": 4.86,
       "reviewsCount": 34,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-island-winds-west-773",
@@ -4353,7 +4353,7 @@
       "rating": 4.61,
       "reviewsCount": 107,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-island-winds-west-780",
@@ -4395,7 +4395,7 @@
       "rating": 4.81,
       "reviewsCount": 122,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-harris-la-bella-vita-unit-102e",
@@ -4436,7 +4436,7 @@
       "rating": 4.86,
       "reviewsCount": 63,
       "gulf_front": null,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-legacy-condo-302",
@@ -4478,7 +4478,7 @@
       "rating": 4.75,
       "reviewsCount": 104,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-1006",
@@ -4520,7 +4520,7 @@
       "rating": 4.89,
       "reviewsCount": 60,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1009",
@@ -4562,7 +4562,7 @@
       "rating": 4.9,
       "reviewsCount": 116,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1014",
@@ -4604,7 +4604,7 @@
       "rating": 4.84,
       "reviewsCount": 9,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-lighthouse-1016",
@@ -4646,7 +4646,7 @@
       "rating": 4.91,
       "reviewsCount": 47,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-lighthouse-1104",
@@ -4688,7 +4688,7 @@
       "rating": 4.67,
       "reviewsCount": 60,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-lighthouse-1106",
@@ -4730,7 +4730,7 @@
       "rating": 4.82,
       "reviewsCount": 99,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-1107",
@@ -4772,7 +4772,7 @@
       "rating": 4.74,
       "reviewsCount": 89,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1110",
@@ -4814,7 +4814,7 @@
       "rating": 4.78,
       "reviewsCount": 48,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1112",
@@ -4856,7 +4856,7 @@
       "rating": 4.64,
       "reviewsCount": 92,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-lighthouse-1113",
@@ -4898,7 +4898,7 @@
       "rating": 4.56,
       "reviewsCount": 100,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-lighthouse-1114",
@@ -4940,7 +4940,7 @@
       "rating": 4.85,
       "reviewsCount": 53,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-lighthouse-1202",
@@ -4982,7 +4982,7 @@
       "rating": 4.6,
       "reviewsCount": 82,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-1206",
@@ -5024,7 +5024,7 @@
       "rating": 4.55,
       "reviewsCount": 85,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1209",
@@ -5066,7 +5066,7 @@
       "rating": 4.83,
       "reviewsCount": 53,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1214",
@@ -5108,7 +5108,7 @@
       "rating": 4.56,
       "reviewsCount": 58,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-lighthouse-1215",
@@ -5150,7 +5150,7 @@
       "rating": 4.64,
       "reviewsCount": 66,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-lighthouse-1404",
@@ -5192,7 +5192,7 @@
       "rating": 4.79,
       "reviewsCount": 94,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-lighthouse-1408",
@@ -5234,7 +5234,7 @@
       "rating": 4.88,
       "reviewsCount": 108,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-1413",
@@ -5276,7 +5276,7 @@
       "rating": 4.64,
       "reviewsCount": 33,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1505",
@@ -5318,7 +5318,7 @@
       "rating": 4.81,
       "reviewsCount": 15,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1507",
@@ -5360,7 +5360,7 @@
       "rating": 4.79,
       "reviewsCount": 105,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-lighthouse-1509",
@@ -5402,7 +5402,7 @@
       "rating": 4.84,
       "reviewsCount": 5,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-lighthouse-1514",
@@ -5444,7 +5444,7 @@
       "rating": 4.83,
       "reviewsCount": 103,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-lighthouse-1605",
@@ -5486,7 +5486,7 @@
       "rating": 4.83,
       "reviewsCount": 22,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-1612",
@@ -5528,7 +5528,7 @@
       "rating": 4.64,
       "reviewsCount": 17,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1613",
@@ -5570,7 +5570,7 @@
       "rating": 4.55,
       "reviewsCount": 39,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-1615",
@@ -5612,7 +5612,7 @@
       "rating": 4.6,
       "reviewsCount": 114,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-lighthouse-1706",
@@ -5654,7 +5654,7 @@
       "rating": 4.68,
       "reviewsCount": 27,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-lighthouse-1708",
@@ -5696,7 +5696,7 @@
       "rating": 4.55,
       "reviewsCount": 123,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-lighthouse-1806",
@@ -5738,7 +5738,7 @@
       "rating": 4.56,
       "reviewsCount": 13,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-1808",
@@ -5780,7 +5780,7 @@
       "rating": 4.79,
       "reviewsCount": 38,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-304",
@@ -5822,7 +5822,7 @@
       "rating": 4.62,
       "reviewsCount": 53,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-lighthouse-305",
@@ -5864,7 +5864,7 @@
       "rating": 4.88,
       "reviewsCount": 110,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-lighthouse-404",
@@ -5906,7 +5906,7 @@
       "rating": 4.93,
       "reviewsCount": 36,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-lighthouse-407",
@@ -5948,7 +5948,7 @@
       "rating": 4.69,
       "reviewsCount": 9,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-lighthouse-409",
@@ -5990,7 +5990,7 @@
       "rating": 4.94,
       "reviewsCount": 54,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-410",
@@ -6032,7 +6032,7 @@
       "rating": 4.88,
       "reviewsCount": 27,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-413",
@@ -6074,7 +6074,7 @@
       "rating": 4.67,
       "reviewsCount": 61,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-502",
@@ -6116,7 +6116,7 @@
       "rating": 4.72,
       "reviewsCount": 56,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-lighthouse-503",
@@ -6158,7 +6158,7 @@
       "rating": 4.85,
       "reviewsCount": 106,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-lighthouse-506",
@@ -6200,7 +6200,7 @@
       "rating": 4.88,
       "reviewsCount": 124,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-lighthouse-604",
@@ -6242,7 +6242,7 @@
       "rating": 4.76,
       "reviewsCount": 72,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-607",
@@ -6284,7 +6284,7 @@
       "rating": 4.57,
       "reviewsCount": 24,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-609",
@@ -6326,7 +6326,7 @@
       "rating": 4.68,
       "reviewsCount": 93,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-707",
@@ -6368,7 +6368,7 @@
       "rating": 4.59,
       "reviewsCount": 30,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-lighthouse-708",
@@ -6410,7 +6410,7 @@
       "rating": 4.84,
       "reviewsCount": 11,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-lighthouse-711",
@@ -6452,7 +6452,7 @@
       "rating": 4.68,
       "reviewsCount": 8,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-lighthouse-713",
@@ -6494,7 +6494,7 @@
       "rating": 4.66,
       "reviewsCount": 114,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-716",
@@ -6536,7 +6536,7 @@
       "rating": 4.94,
       "reviewsCount": 18,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-810",
@@ -6578,7 +6578,7 @@
       "rating": 4.56,
       "reviewsCount": 13,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-lighthouse-903",
@@ -6620,7 +6620,7 @@
       "rating": 4.87,
       "reviewsCount": 26,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-lighthouse-904",
@@ -6662,7 +6662,7 @@
       "rating": 4.83,
       "reviewsCount": 101,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-lighthouse-905",
@@ -6704,7 +6704,7 @@
       "rating": 4.9,
       "reviewsCount": 8,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-lighthouse-913",
@@ -6746,7 +6746,7 @@
       "rating": 4.58,
       "reviewsCount": 14,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-lighthouse-on",
@@ -6788,7 +6788,7 @@
       "rating": 4.76,
       "reviewsCount": 13,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-mustique-1401",
@@ -6829,7 +6829,7 @@
       "rating": 4.67,
       "reviewsCount": 7,
       "gulf_front": null,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-mustique-2101",
@@ -6870,7 +6870,7 @@
       "rating": 4.79,
       "reviewsCount": 14,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-ocean-house-1403",
@@ -6912,7 +6912,7 @@
       "rating": 4.86,
       "reviewsCount": 79,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-ocean-house-1604",
@@ -6954,7 +6954,7 @@
       "rating": 4.67,
       "reviewsCount": 10,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-ocean-house-ii-2201",
@@ -6996,7 +6996,7 @@
       "rating": 4.55,
       "reviewsCount": 34,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-ocean-house-ii-2205",
@@ -7038,7 +7038,7 @@
       "rating": 4.84,
       "reviewsCount": 66,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-ocean-house-ii-2905",
@@ -7080,7 +7080,7 @@
       "rating": 4.66,
       "reviewsCount": 89,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-oceania-6",
@@ -7122,7 +7122,7 @@
       "rating": 4.73,
       "reviewsCount": 99,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-bb-paradise-isle-34",
@@ -7163,7 +7163,7 @@
       "rating": 4.61,
       "reviewsCount": 51,
       "gulf_front": false,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-phoenix-gulf-shores-1004",
@@ -7205,7 +7205,7 @@
       "rating": 4.63,
       "reviewsCount": 119,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-phoenix-gulf-shores-1604",
@@ -7247,7 +7247,7 @@
       "rating": 4.72,
       "reviewsCount": 15,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-phoenix-gulf-shores-ii-1801",
@@ -7289,7 +7289,7 @@
       "rating": 4.88,
       "reviewsCount": 46,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-phoenix-gulf-shores-ii-1802",
@@ -7331,7 +7331,7 @@
       "rating": 4.76,
       "reviewsCount": 110,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-plantation-palms-6203",
@@ -7373,7 +7373,7 @@
       "rating": 4.88,
       "reviewsCount": 81,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-regatta-204a",
@@ -7415,7 +7415,7 @@
       "rating": 4.84,
       "reviewsCount": 73,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-bb-regatta-305c",
@@ -7456,7 +7456,7 @@
       "rating": 4.89,
       "reviewsCount": 96,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-ll-royal-palms-1002",
@@ -7498,7 +7498,7 @@
       "rating": 4.78,
       "reviewsCount": 28,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-royal-palms-1008",
@@ -7540,7 +7540,7 @@
       "rating": 4.59,
       "reviewsCount": 110,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-royal-palms-1208",
@@ -7582,7 +7582,7 @@
       "rating": 4.58,
       "reviewsCount": 38,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-royal-palms-1406",
@@ -7624,7 +7624,7 @@
       "rating": 4.86,
       "reviewsCount": 42,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-royal-palms-301",
@@ -7666,7 +7666,7 @@
       "rating": 4.66,
       "reviewsCount": 74,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-royal-palms-502",
@@ -7708,7 +7708,7 @@
       "rating": 4.9,
       "reviewsCount": 65,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-royal-palms-508",
@@ -7750,7 +7750,7 @@
       "rating": 4.65,
       "reviewsCount": 64,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-royal-palms-703",
@@ -7792,7 +7792,7 @@
       "rating": 4.58,
       "reviewsCount": 42,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-royal-palms-706",
@@ -7834,7 +7834,7 @@
       "rating": 4.91,
       "reviewsCount": 79,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-royal-palms-806",
@@ -7876,7 +7876,7 @@
       "rating": 4.64,
       "reviewsCount": 95,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-royal-palms-905",
@@ -7918,7 +7918,7 @@
       "rating": 4.82,
       "reviewsCount": 39,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-san-carlos-1103",
@@ -7960,7 +7960,7 @@
       "rating": 4.91,
       "reviewsCount": 83,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-san-carlos-1108",
@@ -8002,7 +8002,7 @@
       "rating": 4.9,
       "reviewsCount": 43,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-san-carlos-1407",
@@ -8044,7 +8044,7 @@
       "rating": 4.64,
       "reviewsCount": 93,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-san-carlos-1409",
@@ -8086,7 +8086,7 @@
       "rating": 4.56,
       "reviewsCount": 103,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-san-carlos-1607",
@@ -8128,7 +8128,7 @@
       "rating": 4.71,
       "reviewsCount": 43,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-san-carlos-1701",
@@ -8170,7 +8170,7 @@
       "rating": 4.68,
       "reviewsCount": 81,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-san-carlos-1704",
@@ -8212,7 +8212,7 @@
       "rating": 4.8,
       "reviewsCount": 37,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-san-carlos-1808",
@@ -8254,7 +8254,7 @@
       "rating": 4.7,
       "reviewsCount": 11,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-san-carlos-405",
@@ -8296,7 +8296,7 @@
       "rating": 4.89,
       "reviewsCount": 31,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-san-carlos-505",
@@ -8338,7 +8338,7 @@
       "rating": 4.78,
       "reviewsCount": 106,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-san-carlos-506",
@@ -8380,7 +8380,7 @@
       "rating": 4.84,
       "reviewsCount": 93,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-san-carlos-702",
@@ -8422,7 +8422,7 @@
       "rating": 4.6,
       "reviewsCount": 112,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-san-carlos-703",
@@ -8464,7 +8464,7 @@
       "rating": 4.83,
       "reviewsCount": 110,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-san-carlos-904",
@@ -8506,7 +8506,7 @@
       "rating": 4.89,
       "reviewsCount": 29,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-sanibel-1701",
@@ -8548,7 +8548,7 @@
       "rating": 4.71,
       "reviewsCount": 22,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-sanibel-307",
@@ -8590,7 +8590,7 @@
       "rating": 4.81,
       "reviewsCount": 81,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-sanibel-404",
@@ -8632,7 +8632,7 @@
       "rating": 4.6,
       "reviewsCount": 75,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-sanibel-501",
@@ -8674,7 +8674,7 @@
       "rating": 4.71,
       "reviewsCount": 113,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-sanibel-506",
@@ -8715,7 +8715,7 @@
       "rating": 4.58,
       "reviewsCount": 83,
       "gulf_front": null,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-sanibel-705",
@@ -8757,7 +8757,7 @@
       "rating": 4.69,
       "reviewsCount": 65,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-sanibel-803",
@@ -8799,7 +8799,7 @@
       "rating": 4.75,
       "reviewsCount": 96,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-sanibel-904",
@@ -8841,7 +8841,7 @@
       "rating": 4.57,
       "reviewsCount": 109,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-sea-glass-205",
@@ -8883,7 +8883,7 @@
       "rating": 4.61,
       "reviewsCount": 100,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-sea-glass-207",
@@ -8925,7 +8925,7 @@
       "rating": 4.86,
       "reviewsCount": 73,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-sea-glass-215",
@@ -8966,7 +8966,7 @@
       "rating": 4.55,
       "reviewsCount": 54,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-ll-sea-glass-217",
@@ -9008,7 +9008,7 @@
       "rating": 4.94,
       "reviewsCount": 98,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-sea-glass-309",
@@ -9049,7 +9049,7 @@
       "rating": 4.61,
       "reviewsCount": 52,
       "gulf_front": null,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-sea-glass-406",
@@ -9091,7 +9091,7 @@
       "rating": 4.62,
       "reviewsCount": 118,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-bb-sea-glass-416",
@@ -9132,7 +9132,7 @@
       "rating": 4.71,
       "reviewsCount": 67,
       "gulf_front": null,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-sea-oats-d102",
@@ -9173,7 +9173,7 @@
       "rating": 4.76,
       "reviewsCount": 87,
       "gulf_front": false,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-bb-sea-oats-e103",
@@ -9214,7 +9214,7 @@
       "rating": 4.63,
       "reviewsCount": 6,
       "gulf_front": false,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-sea-oats-g103",
@@ -9255,7 +9255,7 @@
       "rating": 4.93,
       "reviewsCount": 63,
       "gulf_front": false,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-sea-oats-g204",
@@ -9296,7 +9296,7 @@
       "rating": 4.73,
       "reviewsCount": 107,
       "gulf_front": false,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-sea-oats-j104",
@@ -9337,7 +9337,7 @@
       "rating": 4.69,
       "reviewsCount": 42,
       "gulf_front": false,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-seacrest-505",
@@ -9379,7 +9379,7 @@
       "rating": 4.61,
       "reviewsCount": 97,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-seacrest-905",
@@ -9421,7 +9421,7 @@
       "rating": 4.65,
       "reviewsCount": 24,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-seawind-1001",
@@ -9463,7 +9463,7 @@
       "rating": 4.61,
       "reviewsCount": 97,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-seawind-1002",
@@ -9505,7 +9505,7 @@
       "rating": 4.58,
       "reviewsCount": 99,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-seawind-1004",
@@ -9547,7 +9547,7 @@
       "rating": 4.56,
       "reviewsCount": 6,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-seawind-1102",
@@ -9589,7 +9589,7 @@
       "rating": 4.57,
       "reviewsCount": 16,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-seawind-1105",
@@ -9631,7 +9631,7 @@
       "rating": 4.73,
       "reviewsCount": 72,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-seawind-1202",
@@ -9673,7 +9673,7 @@
       "rating": 4.82,
       "reviewsCount": 58,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-seawind-1204",
@@ -9715,7 +9715,7 @@
       "rating": 4.55,
       "reviewsCount": 21,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-seawind-1206",
@@ -9757,7 +9757,7 @@
       "rating": 4.75,
       "reviewsCount": 94,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-seawind-1207",
@@ -9799,7 +9799,7 @@
       "rating": 4.7,
       "reviewsCount": 19,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-sw-seawind-1306",
@@ -9841,7 +9841,7 @@
       "rating": 4.77,
       "reviewsCount": 93,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-seawind-1308",
@@ -9883,7 +9883,7 @@
       "rating": 4.87,
       "reviewsCount": 106,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-seawind-1401",
@@ -9925,7 +9925,7 @@
       "rating": 4.88,
       "reviewsCount": 28,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-sw-seawind-1406",
@@ -9967,7 +9967,7 @@
       "rating": 4.63,
       "reviewsCount": 112,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-seawind-1408",
@@ -10009,7 +10009,7 @@
       "rating": 4.71,
       "reviewsCount": 91,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-seawind-1501",
@@ -10051,7 +10051,7 @@
       "rating": 4.94,
       "reviewsCount": 67,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-seawind-1509",
@@ -10093,7 +10093,7 @@
       "rating": 4.82,
       "reviewsCount": 41,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-seawind-1604",
@@ -10135,7 +10135,7 @@
       "rating": 4.91,
       "reviewsCount": 85,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-seawind-1703",
@@ -10177,7 +10177,7 @@
       "rating": 4.75,
       "reviewsCount": 53,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-seawind-1705",
@@ -10219,7 +10219,7 @@
       "rating": 4.72,
       "reviewsCount": 113,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-sw-seawind-1708",
@@ -10261,7 +10261,7 @@
       "rating": 4.69,
       "reviewsCount": 53,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-seawind-1802",
@@ -10303,7 +10303,7 @@
       "rating": 4.61,
       "reviewsCount": 20,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-seawind-1803",
@@ -10345,7 +10345,7 @@
       "rating": 4.63,
       "reviewsCount": 26,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-sw-seawind-1901",
@@ -10387,7 +10387,7 @@
       "rating": 4.72,
       "reviewsCount": 101,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-seawind-1902",
@@ -10429,7 +10429,7 @@
       "rating": 4.93,
       "reviewsCount": 68,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-seawind-1907",
@@ -10471,7 +10471,7 @@
       "rating": 4.93,
       "reviewsCount": 103,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-sw-seawind-2005",
@@ -10513,7 +10513,7 @@
       "rating": 4.83,
       "reviewsCount": 36,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-sw-seawind-2007",
@@ -10555,7 +10555,7 @@
       "rating": 4.67,
       "reviewsCount": 49,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-seawind-300",
@@ -10597,7 +10597,7 @@
       "rating": 4.93,
       "reviewsCount": 20,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-seawind-400",
@@ -10639,7 +10639,7 @@
       "rating": 4.86,
       "reviewsCount": 5,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-seawind-406",
@@ -10681,7 +10681,7 @@
       "rating": 4.75,
       "reviewsCount": 25,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-seawind-407",
@@ -10723,7 +10723,7 @@
       "rating": 4.55,
       "reviewsCount": 30,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-seawind-502",
@@ -10765,7 +10765,7 @@
       "rating": 4.63,
       "reviewsCount": 111,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-seawind-504",
@@ -10807,7 +10807,7 @@
       "rating": 4.78,
       "reviewsCount": 18,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-seawind-601",
@@ -10849,7 +10849,7 @@
       "rating": 4.86,
       "reviewsCount": 108,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-seawind-602",
@@ -10891,7 +10891,7 @@
       "rating": 4.77,
       "reviewsCount": 124,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-seawind-603",
@@ -10933,7 +10933,7 @@
       "rating": 4.73,
       "reviewsCount": 62,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-ll-seawind-604",
@@ -10975,7 +10975,7 @@
       "rating": 4.55,
       "reviewsCount": 75,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-sw-seawind-607",
@@ -11017,7 +11017,7 @@
       "rating": 4.55,
       "reviewsCount": 38,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-seawind-608",
@@ -11059,7 +11059,7 @@
       "rating": 4.9,
       "reviewsCount": 47,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-ll-seawind-7-penthouse",
@@ -11101,7 +11101,7 @@
       "rating": 4.81,
       "reviewsCount": 72,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-ll-seawind-701",
@@ -11143,7 +11143,7 @@
       "rating": 4.55,
       "reviewsCount": 90,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-ll-seawind-702",
@@ -11185,7 +11185,7 @@
       "rating": 4.83,
       "reviewsCount": 42,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-sw-seawind-803",
@@ -11227,7 +11227,7 @@
       "rating": 4.79,
       "reviewsCount": 65,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-ll-seawind-902",
@@ -11269,7 +11269,7 @@
       "rating": 4.79,
       "reviewsCount": 47,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-ll-seawind-904",
@@ -11311,7 +11311,7 @@
       "rating": 4.63,
       "reviewsCount": 63,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-sw-seawind-907",
@@ -11353,7 +11353,7 @@
       "rating": 4.87,
       "reviewsCount": 32,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-sw-seawind-908",
@@ -11395,7 +11395,7 @@
       "rating": 4.62,
       "reviewsCount": 29,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-seawind-ph3",
@@ -11437,7 +11437,7 @@
       "rating": 4.8,
       "reviewsCount": 30,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-harris-summer-breeze-mustique-1502",
@@ -11478,7 +11478,7 @@
       "rating": 4.92,
       "reviewsCount": 73,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-sundial-g2",
@@ -11520,7 +11520,7 @@
       "rating": 4.85,
       "reviewsCount": 106,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-surfside-shores-2306",
@@ -11562,7 +11562,7 @@
       "rating": 4.62,
       "reviewsCount": 91,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-surfside-shores-2804",
@@ -11604,7 +11604,7 @@
       "rating": 4.88,
       "reviewsCount": 32,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-the-colonnades-1902",
@@ -11646,7 +11646,7 @@
       "rating": 4.66,
       "reviewsCount": 89,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-owner-lani-kai-218",
@@ -11687,7 +11687,7 @@
       "rating": 4.58,
       "reviewsCount": 5,
       "gulf_front": false,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-bb-tropic-isles-704",
@@ -11729,7 +11729,7 @@
       "rating": 4.65,
       "reviewsCount": 77,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-bb-tropical-winds-203",
@@ -11771,7 +11771,7 @@
       "rating": 4.85,
       "reviewsCount": 98,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-tropical-winds-502",
@@ -11813,7 +11813,7 @@
       "rating": 4.58,
       "reviewsCount": 67,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-westwinds-403",
@@ -11855,7 +11855,7 @@
       "rating": 4.57,
       "reviewsCount": 104,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-whaler-1b",
@@ -11897,7 +11897,7 @@
       "rating": 4.65,
       "reviewsCount": 99,
       "gulf_front": true,
-      "image": "images/rentals/gulf-view-balcony.jpg"
+      "image": "./images/rentals/gulf-view-balcony.jpg"
     },
     {
       "id": "u-bb-whaler-5b",
@@ -11938,7 +11938,7 @@
       "rating": 4.85,
       "reviewsCount": 107,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-bb-21-palms",
@@ -11979,7 +11979,7 @@
       "rating": 4.84,
       "reviewsCount": 70,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-harris-50-shades-of-blue",
@@ -12020,7 +12020,7 @@
       "rating": 4.67,
       "reviewsCount": 51,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-harris-a-gift-from-the-sea",
@@ -12061,7 +12061,7 @@
       "rating": 4.66,
       "reviewsCount": 8,
       "gulf_front": null,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-harris-a-license-to-chill",
@@ -12102,7 +12102,7 @@
       "rating": 4.76,
       "reviewsCount": 57,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-harris-a-license-to-chill-a",
@@ -12143,7 +12143,7 @@
       "rating": 4.69,
       "reviewsCount": 29,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-harris-a-license-to-chill-b",
@@ -12184,7 +12184,7 @@
       "rating": 4.81,
       "reviewsCount": 33,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-harris-a-place-in-the-sun",
@@ -12225,7 +12225,7 @@
       "rating": 4.72,
       "reviewsCount": 9,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-bb-a-sunkissed-escape",
@@ -12266,7 +12266,7 @@
       "rating": 4.68,
       "reviewsCount": 54,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-harris-a-walk-on-sand",
@@ -12307,7 +12307,7 @@
       "rating": 4.86,
       "reviewsCount": 11,
       "gulf_front": null,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-harris-a-wave-from-it-all",
@@ -12348,7 +12348,7 @@
       "rating": 4.59,
       "reviewsCount": 66,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-bb-a-westside-paradise",
@@ -12389,7 +12389,7 @@
       "rating": 4.67,
       "reviewsCount": 51,
       "gulf_front": false,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-alabama-white-sands",
@@ -12431,7 +12431,7 @@
       "rating": 4.85,
       "reviewsCount": 123,
       "gulf_front": true,
-      "image": "images/rentals/pool-deck.jpg"
+      "image": "./images/rentals/pool-deck.jpg"
     },
     {
       "id": "u-harris-always-summer-pass-time-7",
@@ -12472,7 +12472,7 @@
       "rating": 4.69,
       "reviewsCount": 106,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-bb-attitude-adjustment",
@@ -12513,7 +12513,7 @@
       "rating": 4.89,
       "reviewsCount": 92,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-bb-bama-bliss",
@@ -12554,7 +12554,7 @@
       "rating": 4.84,
       "reviewsCount": 19,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-bb-beach-energy",
@@ -12595,7 +12595,7 @@
       "rating": 4.75,
       "reviewsCount": 15,
       "gulf_front": false,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-bb-beach-hair-don-t-care",
@@ -12637,7 +12637,7 @@
       "rating": 4.56,
       "reviewsCount": 97,
       "gulf_front": true,
-      "image": "images/rentals/sunset-deck.jpg"
+      "image": "./images/rentals/sunset-deck.jpg"
     },
     {
       "id": "u-harris-beach-mouse",
@@ -12678,7 +12678,7 @@
       "rating": 4.55,
       "reviewsCount": 104,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-harris-beach-oasis",
@@ -12719,7 +12719,7 @@
       "rating": 4.84,
       "reviewsCount": 124,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-beachballer",
@@ -12760,7 +12760,7 @@
       "rating": 4.64,
       "reviewsCount": 31,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-bb-bikini-bottom-east",
@@ -12801,7 +12801,7 @@
       "rating": 4.56,
       "reviewsCount": 112,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-bb-bikini-bottom-west",
@@ -12842,7 +12842,7 @@
       "rating": 4.89,
       "reviewsCount": 64,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-bb-blue-crab",
@@ -12883,7 +12883,7 @@
       "rating": 4.56,
       "reviewsCount": 107,
       "gulf_front": null,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-bb-casa-de-las-conchas",
@@ -12924,7 +12924,7 @@
       "rating": 4.56,
       "reviewsCount": 17,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-harris-cask-and-coast-east",
@@ -12965,7 +12965,7 @@
       "rating": 4.86,
       "reviewsCount": 7,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-harris-cask-and-coast-west",
@@ -13006,7 +13006,7 @@
       "rating": 4.6,
       "reviewsCount": 105,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-bb-coastal-breeze",
@@ -13047,7 +13047,7 @@
       "rating": 4.88,
       "reviewsCount": 115,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-bb-coastal-serenity",
@@ -13088,7 +13088,7 @@
       "rating": 4.63,
       "reviewsCount": 12,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-bb-coastal-sunset",
@@ -13129,7 +13129,7 @@
       "rating": 4.94,
       "reviewsCount": 14,
       "gulf_front": null,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-bb-coconut-cottage",
@@ -13170,7 +13170,7 @@
       "rating": 4.66,
       "reviewsCount": 8,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-harris-dancing-with-the-waves",
@@ -13211,7 +13211,7 @@
       "rating": 4.55,
       "reviewsCount": 110,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-harris-dock-of-the-bay",
@@ -13252,7 +13252,7 @@
       "rating": 4.69,
       "reviewsCount": 37,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-bb-drift-away",
@@ -13293,7 +13293,7 @@
       "rating": 4.61,
       "reviewsCount": 51,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-bb-eagle-s-nest",
@@ -13334,7 +13334,7 @@
       "rating": 4.58,
       "reviewsCount": 10,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-bb-family-tradition",
@@ -13375,7 +13375,7 @@
       "rating": 4.65,
       "reviewsCount": 8,
       "gulf_front": null,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-bb-gulf-4-shore",
@@ -13416,7 +13416,7 @@
       "rating": 4.66,
       "reviewsCount": 22,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-bb-happy-ours",
@@ -13457,7 +13457,7 @@
       "rating": 4.8,
       "reviewsCount": 107,
       "gulf_front": false,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-harris-heels-in-the-sand",
@@ -13498,7 +13498,7 @@
       "rating": 4.61,
       "reviewsCount": 18,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-harris-jubilee-by-the-sea",
@@ -13539,7 +13539,7 @@
       "rating": 4.76,
       "reviewsCount": 12,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-bb-lagoon-luxury",
@@ -13580,7 +13580,7 @@
       "rating": 4.57,
       "reviewsCount": 86,
       "gulf_front": false,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-bb-laguna-sunrise",
@@ -13621,7 +13621,7 @@
       "rating": 4.92,
       "reviewsCount": 58,
       "gulf_front": false,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-harris-maison-by-the-sea",
@@ -13662,7 +13662,7 @@
       "rating": 4.79,
       "reviewsCount": 17,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-harris-marvel-by-the-sea",
@@ -13703,7 +13703,7 @@
       "rating": 4.76,
       "reviewsCount": 98,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-my-friend-s-place-east",
@@ -13745,7 +13745,7 @@
       "rating": 4.85,
       "reviewsCount": 67,
       "gulf_front": true,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-my-friend-s-place-west",
@@ -13787,7 +13787,7 @@
       "rating": 4.58,
       "reviewsCount": 33,
       "gulf_front": true,
-      "image": "images/rentals/gulf-front-condo.jpg"
+      "image": "./images/rentals/gulf-front-condo.jpg"
     },
     {
       "id": "u-bb-no-bad-days",
@@ -13828,7 +13828,7 @@
       "rating": 4.75,
       "reviewsCount": 8,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-harris-once-upon-a-tide",
@@ -13869,7 +13869,7 @@
       "rating": 4.86,
       "reviewsCount": 10,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-bb-orrell-house",
@@ -13910,7 +13910,7 @@
       "rating": 4.73,
       "reviewsCount": 68,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-harris-out-of-the-blue",
@@ -13951,7 +13951,7 @@
       "rating": 4.7,
       "reviewsCount": 45,
       "gulf_front": null,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-harris-palms-on-the-gulf",
@@ -13992,7 +13992,7 @@
       "rating": 4.75,
       "reviewsCount": 42,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-bb-salty-sandy-bottom",
@@ -14033,7 +14033,7 @@
       "rating": 4.59,
       "reviewsCount": 27,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-salty-sandy-top",
@@ -14074,7 +14074,7 @@
       "rating": 4.94,
       "reviewsCount": 70,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-harris-salty-mermaid",
@@ -14115,7 +14115,7 @@
       "rating": 4.71,
       "reviewsCount": 38,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-bb-sawgrass",
@@ -14156,7 +14156,7 @@
       "rating": 4.81,
       "reviewsCount": 40,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-bb-sea-at-last",
@@ -14197,7 +14197,7 @@
       "rating": 4.66,
       "reviewsCount": 71,
       "gulf_front": null,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-bb-sea-breeze",
@@ -14239,7 +14239,7 @@
       "rating": 4.86,
       "reviewsCount": 75,
       "gulf_front": true,
-      "image": "images/rentals/oceanfront-tower.jpg"
+      "image": "./images/rentals/oceanfront-tower.jpg"
     },
     {
       "id": "u-bb-sea-walley",
@@ -14280,7 +14280,7 @@
       "rating": 4.66,
       "reviewsCount": 17,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-harris-sea-ya-real-soon",
@@ -14321,7 +14321,7 @@
       "rating": 4.73,
       "reviewsCount": 27,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-harris-slackwater-pass-time-5",
@@ -14362,7 +14362,7 @@
       "rating": 4.91,
       "reviewsCount": 72,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-harris-somewhere-in-sand-1",
@@ -14403,7 +14403,7 @@
       "rating": 4.91,
       "reviewsCount": 10,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-harris-somewhere-in-sand-2",
@@ -14444,7 +14444,7 @@
       "rating": 4.78,
       "reviewsCount": 6,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-harris-southern-breeze",
@@ -14485,7 +14485,7 @@
       "rating": 4.67,
       "reviewsCount": 10,
       "gulf_front": null,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-harris-stuck-in-the-sand",
@@ -14526,7 +14526,7 @@
       "rating": 4.86,
       "reviewsCount": 82,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-harris-sunrise-pointe-at-laguna-key",
@@ -14567,7 +14567,7 @@
       "rating": 4.57,
       "reviewsCount": 9,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-harris-sunset-dunes-at-laguna-key",
@@ -14608,7 +14608,7 @@
       "rating": 4.88,
       "reviewsCount": 5,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     },
     {
       "id": "u-harris-sweet-beach-home-alabama-side-b",
@@ -14649,7 +14649,7 @@
       "rating": 4.78,
       "reviewsCount": 23,
       "gulf_front": null,
-      "image": "images/rentals/beach-house.jpg"
+      "image": "./images/rentals/beach-house.jpg"
     },
     {
       "id": "u-bb-the-beach-shack",
@@ -14690,7 +14690,7 @@
       "rating": 4.92,
       "reviewsCount": 111,
       "gulf_front": null,
-      "image": "images/rentals/sandy-path-home.jpg"
+      "image": "./images/rentals/sandy-path-home.jpg"
     },
     {
       "id": "u-bb-the-sand-surf-beach-house-a",
@@ -14731,7 +14731,7 @@
       "rating": 4.67,
       "reviewsCount": 25,
       "gulf_front": null,
-      "image": "images/rentals/canal-condo.jpg"
+      "image": "./images/rentals/canal-condo.jpg"
     },
     {
       "id": "u-bb-the-sand-surf-beach-house-b",
@@ -14772,7 +14772,7 @@
       "rating": 4.91,
       "reviewsCount": 46,
       "gulf_front": null,
-      "image": "images/rentals/kitchen-dining.jpg"
+      "image": "./images/rentals/kitchen-dining.jpg"
     },
     {
       "id": "u-bb-tide-seek",
@@ -14813,7 +14813,7 @@
       "rating": 4.88,
       "reviewsCount": 46,
       "gulf_front": null,
-      "image": "images/rentals/interior-living.jpg"
+      "image": "./images/rentals/interior-living.jpg"
     },
     {
       "id": "u-bb-winter-waves",
@@ -14854,7 +14854,7 @@
       "rating": 4.77,
       "reviewsCount": 56,
       "gulf_front": null,
-      "image": "images/rentals/coastal-bedroom.jpg"
+      "image": "./images/rentals/coastal-bedroom.jpg"
     }
   ],
   "listings": [
@@ -14876,7 +14876,7 @@
       "agentId": "ag-1",
       "imageHue": 200,
       "notes": "Gulf-front / West Beach",
-      "image": "images/listings/gulf-condo-exterior.jpg"
+      "image": "./images/listings/gulf-condo-exterior.jpg"
     },
     {
       "id": "L-sale-cx-boardwalk",
@@ -14896,7 +14896,7 @@
       "agentId": "ag-2",
       "imageHue": 210,
       "notes": "10 stories, ~90 units; near Sea-N-Suds",
-      "image": "images/listings/beachfront-building.jpg"
+      "image": "./images/listings/beachfront-building.jpg"
     },
     {
       "id": "L-sale-cx-caribbean",
@@ -14916,7 +14916,7 @@
       "agentId": "ag-1",
       "imageHue": 220,
       "notes": "2000; 9 stories, 32 units; 771\u20131058 sq ft",
-      "image": "images/listings/gulf-condo-exterior.jpg"
+      "image": "./images/listings/gulf-condo-exterior.jpg"
     },
     {
       "id": "L-sale-cx-castaways",
@@ -14936,7 +14936,7 @@
       "agentId": "ag-2",
       "imageHue": 230,
       "notes": "1984; 36 units; all direct gulf-front",
-      "image": "images/listings/beachfront-building.jpg"
+      "image": "./images/listings/beachfront-building.jpg"
     },
     {
       "id": "L-sale-cx-bay-john",
@@ -14956,7 +14956,7 @@
       "agentId": "ag-1",
       "imageHue": 240,
       "notes": "Bayfront cottage-style; boat slips",
-      "image": "images/listings/bayfront-home.jpg"
+      "image": "./images/listings/bayfront-home.jpg"
     },
     {
       "id": "L-sale-cx-beach-life",
@@ -14976,7 +14976,7 @@
       "agentId": "ag-2",
       "imageHue": 250,
       "notes": "2016; 8 units (4 duplexes); ~1 block from beach",
-      "image": "images/listings/duplex-exterior.jpg"
+      "image": "./images/listings/duplex-exterior.jpg"
     }
   ],
   "agents": [
@@ -14992,8 +14992,8 @@
         "Owner exits",
         "36542 pricing"
       ],
-      "avatar": "images/agents/elena-brooks.jpg",
-      "image": "images/agents/elena-brooks.jpg"
+      "avatar": "./images/agents/elena-brooks.jpg",
+      "image": "./images/agents/elena-brooks.jpg"
     },
     {
       "id": "ag-2",
@@ -15007,8 +15007,8 @@
         "Canal homes",
         "Buyer negotiation"
       ],
-      "avatar": "images/agents/marcus-hale.jpg",
-      "image": "images/agents/marcus-hale.jpg"
+      "avatar": "./images/agents/marcus-hale.jpg",
+      "image": "./images/agents/marcus-hale.jpg"
     }
   ],
   "owners": [

@@ -12,7 +12,7 @@ const KEYS = {
   managers: 'gce_managers',
   complexes: 'gce_complexes',
   market: 'gce_market',
-  seed: 'gce_seed_v5',
+  seed: 'gce_seed_v6',
 };
 
 class EstateStore {
@@ -21,7 +21,7 @@ class EstateStore {
   }
 
   init() {
-    if (localStorage.getItem(KEYS.seed) !== '5') {
+    if (localStorage.getItem(KEYS.seed) !== '6') {
       localStorage.setItem(KEYS.rentals, JSON.stringify(seed.rentals));
       localStorage.setItem(KEYS.listings, JSON.stringify(seed.listings));
       localStorage.setItem(KEYS.agents, JSON.stringify(seed.agents));
@@ -33,7 +33,7 @@ class EstateStore {
       localStorage.setItem(KEYS.market, JSON.stringify(seed.market));
       if (!localStorage.getItem(KEYS.showings)) localStorage.setItem(KEYS.showings, JSON.stringify([]));
       if (!localStorage.getItem(KEYS.appointments)) localStorage.setItem(KEYS.appointments, JSON.stringify([]));
-      localStorage.setItem(KEYS.seed, '5');
+      localStorage.setItem(KEYS.seed, '6');
     }
   }
 

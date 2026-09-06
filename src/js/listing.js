@@ -1,14 +1,15 @@
 import store from './store.js';
-import { initLayout, money } from './layout.js';
+import { initLayout, money, imgSrc } from './layout.js';
 document.addEventListener('DOMContentLoaded', () => {
   initLayout('listings');
   const l = store.getListingById(new URLSearchParams(location.search).get('id') || '');
   const el = document.getElementById('listing-detail');
   if (!l) { el.innerHTML = '<div class="empty-state"><strong>Not found</strong></div>'; return; }
   const ag = store.getAgents().find((a) => a.id === l.agentId);
+  const photo = imgSrc(l.image);
   el.innerHTML = `
     <div class="detail-hero">
-      <div class="detail-media" style="--hue:${l.imageHue};--img:url('${l.image || ''}')"></div>
+      <div class="detail-media" style="--hue:${l.imageHue}">${photo ? `<img class="listing-photo" src="${photo}" alt="">` : ''}</div>
       <div>
         <div class="eyebrow">${l.zip} · DOM ${l.dom} days</div>
         <h1>${l.title}</h1>
