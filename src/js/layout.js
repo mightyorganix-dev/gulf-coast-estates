@@ -116,7 +116,7 @@ export function rentalCard(r) {
   const bedNote = r.bedsEstimated ? ' · beds est.' : '';
   return `
     <a class="card listing-card" href="rental.html?id=${encodeURIComponent(r.id)}">
-      <div class="listing-media" style="--hue:${r.imageHue || 200}"></div>
+      <div class="listing-media" style="--hue:${r.imageHue || 200};--img:url('${r.image || ''}')"></div>
       <div class="card-kicker">${r.complex || r.manager || 'Gulf Shores'} · ${r.area}</div>
       <h3>${r.title}</h3>
       <p>${r.bedrooms} bed · ${r.bathrooms} bath · sleeps ${r.sleeps}${r.petsAllowed ? ' · pets' : ''}${bedNote}</p>

@@ -1,0 +1,5 @@
+import{i,s as d,m as s}from"./layout-BN_Rhxej.js";document.addEventListener("DOMContentLoaded",()=>{i();const e=d.getRentals(),a=d.revenueSnapshot();document.getElementById("admin-stats").innerHTML=`
+    <div class="stat"><div class="label">Rentals</div><div class="value">${e.length}</div></div>
+    <div class="stat"><div class="label">Complexes</div><div class="value">${d.getComplexes().length}</div></div>
+    <div class="stat"><div class="label">Leads</div><div class="value">${d.getLeads().length}</div></div>
+    <div class="stat"><div class="label">Demo gross</div><div class="value">${s(a.gross)}</div></div>`,document.getElementById("admin-rentals").innerHTML=e.slice(0,40).map(t=>`<tr><td>${t.id}</td><td><a href="rental.html?id=${encodeURIComponent(t.id)}">${t.title}</a></td><td>${t.area}</td><td>${t.bedrooms}</td><td>${t.manager||"—"}</td><td>${s(t.nightlyFrom)}</td></tr>`).join(""),document.getElementById("admin-leads").innerHTML=d.getLeads().map(t=>`<tr><td>${t.id}</td><td>${t.type}</td><td>${t.name}</td><td>${t.status}</td></tr>`).join("")});

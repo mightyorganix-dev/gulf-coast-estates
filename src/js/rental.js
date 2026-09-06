@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.title = `${r.title} | Gulf Coast Estates`;
   el.innerHTML = `
     <div class="detail-hero">
-      <div class="detail-media" style="--hue:${r.imageHue}"></div>
+      <div class="detail-media" style="--hue:${r.imageHue};--img:url('${r.image || ''}')"></div>
       <div>
         <div class="eyebrow">${r.complex || 'Gulf Shores'} · ${r.zip}</div>
         <h1>${r.title}</h1>

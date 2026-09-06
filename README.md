@@ -10,7 +10,7 @@ Install dependencies, start the Vite dev server, then create the production bund
 ## Stack
 - Vite multi-page, vanilla HTML/CSS/JS
 - Shared layout: src/js/layout.js
-- Store: src/js/store.js (localStorage seed v4)
+- Store: src/js/store.js (localStorage seed v5)
 - Inventory source: data/rentals_36542.json (463 records ingested)
 
 ## Pages

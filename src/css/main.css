@@ -831,6 +831,7 @@ tr:hover td { background: rgba(255,255,255,0.015); }
   background:
     linear-gradient(105deg, rgba(7,14,24,0.9) 10%, rgba(7,14,24,0.55) 48%, rgba(7,14,24,0.82) 100%),
     radial-gradient(ellipse at 70% 35%, rgba(26,111,143,0.25), transparent 60%),
+    var(--hero-img) center / cover no-repeat,
     linear-gradient(160deg, #0b1524, #1a3a4a 40%, #0b1524);
 }
 .market-strip {
@@ -873,6 +874,7 @@ tr:hover td { background: rgba(255,255,255,0.015); }
   height: 160px;
   background:
     linear-gradient(180deg, transparent 30%, rgba(7,14,24,0.75)),
+    var(--img, none) center / cover no-repeat,
     linear-gradient(135deg, hsl(var(--hue,200) 35% 28%), hsl(calc(var(--hue,200) + 40) 40% 18%));
 }
 .listing-card .card-kicker,
@@ -940,6 +942,7 @@ th { font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; color
   min-height: 280px; border-radius: var(--radius-lg); border: 1px solid var(--line);
   background:
     linear-gradient(180deg, transparent 40%, rgba(7,14,24,0.7)),
+    var(--img, none) center / cover no-repeat,
     linear-gradient(135deg, hsl(var(--hue,200) 35% 30%), hsl(calc(var(--hue,200) + 35) 40% 16%));
 }
 .amenity-list { display: flex; flex-wrap: wrap; gap: 0.45rem; margin: 1rem 0; }

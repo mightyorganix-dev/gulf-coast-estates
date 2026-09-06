@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initLayout('listings');
   document.getElementById('listings-grid').innerHTML = store.getListings().map((l) => `
     <a class="card listing-card" href="listing.html?id=${l.id}">
-      <div class="listing-media" style="--hue:${l.imageHue}"></div>
+      <div class="listing-media" style="--hue:${l.imageHue};--img:url('${l.image || ''}')"></div>
       <div class="card-kicker">${l.type} · DOM ${l.dom}</div>
       <h3>${l.title}</h3>
       <p>${l.bedrooms} bed · ${l.bathrooms} bath · ${l.sqft.toLocaleString()} sqft · ${money(l.ppsqft)}/sqft</p>

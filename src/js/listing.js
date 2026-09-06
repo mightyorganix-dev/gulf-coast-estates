@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const ag = store.getAgents().find((a) => a.id === l.agentId);
   el.innerHTML = `
     <div class="detail-hero">
-      <div class="detail-media" style="--hue:${l.imageHue}"></div>
+      <div class="detail-media" style="--hue:${l.imageHue};--img:url('${l.image || ''}')"></div>
       <div>
         <div class="eyebrow">${l.zip} · DOM ${l.dom} days</div>
         <h1>${l.title}</h1>
