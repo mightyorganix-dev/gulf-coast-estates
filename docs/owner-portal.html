@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Owner Portal | Gulf Coast Estates</title>
+  <script type="module" crossorigin src="./assets/ownerPortal-BK1xDRVJ.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/layout-CvHgV98I.js">
+  <link rel="stylesheet" crossorigin href="./assets/layout-BIxfAaS_.css">
+</head>
+<body>
+  <div id="site-nav"></div>
+
+  <header class="page-hero"><div class="container">
+    <h1>Owner portal</h1>
+    <p>Demo properties, calendars, and revenue snapshot — localStorage only.</p>
+    <div class="stat-grid" style="margin-top:1.25rem" id="owner-stats"></div>
+  </div></header>
+  <main class="page" style="padding-top:1rem"><div class="container">
+    <div class="field" style="max-width:320px;margin-bottom:1.5rem">
+      <label>Owner</label>
+      <select id="owner-select"></select>
+    </div>
+    <div class="card-grid" id="owner-props"></div>
+    <h2 style="margin-top:2.5rem;color:var(--cream)">Upcoming reservations</h2>
+    <div class="table-wrap" style="margin-top:1rem">
+      <table><thead><tr><th>Ref</th><th>Property</th><th>Dates</th><th>Guest</th><th>Total</th><th>Status</th></tr></thead>
+      <tbody id="owner-res"></tbody></table>
+    </div>
+  </div></main>
+
+  <div id="site-footer"></div>
+</body>
+</html>

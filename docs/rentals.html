@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vacation Rentals | Gulf Coast Estates — Gulf Shores 36542</title>
+  <meta name="description" content="Browse 350+ Gulf Shores vacation rentals from real complex and manager inventories." />
+  <script type="module" crossorigin src="./assets/rentals-BBh2IEOH.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/layout-CvHgV98I.js">
+  <link rel="stylesheet" crossorigin href="./assets/layout-BIxfAaS_.css">
+</head>
+<body>
+  <div id="site-nav"></div>
+  <header class="page-hero">
+    <div class="container">
+      <h1>Vacation rentals</h1>
+      <p>Browseable catalog ingested from public 36542 research — real complex and unit names across Gulf Shores, Fort Morgan, and the Orange Beach corridor. Nightly bands are demo guidance; beds marked “est.” when source pages omitted counts.</p>
+    </div>
+  </header>
+  <main class="page" style="padding-top:0">
+    <div class="container">
+      <div class="filters" id="rental-filters" style="grid-template-columns: 1.6fr repeat(5, 1fr) auto;">
+        <div class="field"><label>Search</label><input type="search" id="f-q" placeholder="Seawind, Crystal, address…" /></div>
+        <div class="field"><label>Area</label>
+          <select id="f-area"><option value="all">All</option><option>West Beach</option><option>East Beach</option><option>Gulf Shores</option><option>Little Lagoon</option><option>Fort Morgan</option><option>Orange Beach</option><option>Perdido Key</option></select>
+        </div>
+        <div class="field"><label>Beds+</label>
+          <select id="f-beds"><option value="">Any</option><option>1</option><option>2</option><option>3</option><option>4</option></select>
+        </div>
+        <div class="field"><label>Type</label>
+          <select id="f-type"><option value="all">All</option><option value="gulf-front">Gulf-front</option><option value="gulf-view">Gulf-view</option><option value="condo">Condo</option><option value="house">House</option></select>
+        </div>
+        <div class="field"><label>Manager</label>
+          <select id="f-manager"><option value="all">All</option></select>
+        </div>
+        <div class="field"><label>Pets</label>
+          <select id="f-pets"><option value="">Any</option><option value="yes">Pet-friendly</option></select>
+        </div>
+        <div class="field"><label>&nbsp;</label><button type="button" class="btn btn-primary" id="f-go" style="width:100%">Filter</button></div>
+      </div>
+      <p class="muted" id="rental-count"></p>
+      <div class="card-grid" id="rental-grid"></div>
+    </div>
+  </main>
+  <div id="site-footer"></div>
+</body>
+</html>
