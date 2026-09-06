@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ops Portal | Gulf Coast Estates</title>
+  <link rel="stylesheet" href="/src/css/main.css" />
+</head>
+<body>
+  <div id="site-nav"></div>
+
+  <header class="page-hero"><div class="container">
+    <h1>Ops portal</h1>
+    <p>Leads, reservation pipeline, and cleaning flags.</p>
+  </div></header>
+  <main class="page" style="padding-top:0"><div class="container">
+    <h2 style="color:var(--cream)">Leads</h2>
+    <div class="table-wrap" style="margin:1rem 0 2rem"><table>
+      <thead><tr><th>ID</th><th>Type</th><th>Name</th><th>Message</th><th>Status</th></tr></thead>
+      <tbody id="ops-leads"></tbody>
+    </table></div>
+    <h2 style="color:var(--cream)">Reservations pipeline</h2>
+    <div class="table-wrap" style="margin-top:1rem"><table>
+      <thead><tr><th>Ref</th><th>Guest</th><th>Property</th><th>Dates</th><th>Cleaning</th><th>Status</th><th></th></tr></thead>
+      <tbody id="ops-res"></tbody>
+    </table></div>
+  </div></main>
+
+  <div id="site-footer"></div>
+  <script type="module" src="/src/js/agent-portal.js"></script>
+</body>
+</html>

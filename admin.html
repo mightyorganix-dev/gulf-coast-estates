@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin | Gulf Coast Estates</title>
+  <link rel="stylesheet" href="/src/css/main.css" />
+</head>
+<body>
+  <div id="site-nav"></div>
+
+  <header class="page-hero"><div class="container">
+    <h1>Admin</h1>
+    <p>Inventory, owners, reservations, revenue — demo dashboard.</p>
+    <div class="stat-grid" style="margin-top:1.25rem" id="admin-stats"></div>
+  </div></header>
+  <main class="page" style="padding-top:1rem"><div class="container">
+    <h2 style="color:var(--cream)">Rental inventory (sample table)</h2>
+    <div class="table-wrap" style="margin:1rem 0 2rem"><table>
+      <thead><tr><th>ID</th><th>Name</th><th>Area</th><th>Beds</th><th>Manager</th><th>From</th></tr></thead>
+      <tbody id="admin-rentals"></tbody>
+    </table></div>
+    <h2 style="color:var(--cream)">Leads</h2>
+    <div class="table-wrap" style="margin-top:1rem"><table>
+      <thead><tr><th>ID</th><th>Type</th><th>Name</th><th>Status</th></tr></thead>
+      <tbody id="admin-leads"></tbody>
+    </table></div>
+  </div></main>
+
+  <div id="site-footer"></div>
+  <script type="module" src="/src/js/admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Guest Itinerary | Gulf Coast Estates</title>
+  <link rel="stylesheet" href="/src/css/main.css" />
+</head>
+<body>
+  <div id="site-nav"></div>
+
+  <header class="page-hero"><div class="container">
+    <h1>Guest itinerary</h1>
+    <p>Lookup your hold or confirmation by reference (e.g. GS-7701).</p>
+  </div></header>
+  <main class="page" style="padding-top:0"><div class="container-narrow">
+    <form id="lookup-form" class="card" style="padding:1.25rem;margin-bottom:1.5rem">
+      <div class="row-between">
+        <div class="field" style="flex:1"><label>Confirmation ID</label><input id="lookup-id" placeholder="GS-7701" required /></div>
+        <button type="submit" class="btn btn-primary" style="margin-top:1.2rem">Lookup</button>
+      </div>
+    </form>
+    <div id="itinerary-result"></div>
+  </div></main>
+
+  <div id="site-footer"></div>
+  <script type="module" src="/src/js/itinerary.js"></script>
+</body>
+</html>

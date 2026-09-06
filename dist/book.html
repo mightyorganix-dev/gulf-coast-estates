@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reserve a Stay | Gulf Coast Estates</title>
+  <meta name="description" content="Gulf Coast Estates — Gulf Shores 36542." />
+  <script type="module" crossorigin src="./assets/book-qKNi1a2u.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/layout-CvHgV98I.js">
+  <link rel="stylesheet" crossorigin href="./assets/layout-BIxfAaS_.css">
+</head>
+<body>
+  <div id="site-nav"></div>
+
+  <header class="page-hero">
+    <div class="container">
+      <h1>Request a hold</h1>
+      <p>Soft hold and inquiry — we confirm availability before any payment. Optional Stripe retainer is disabled until go-live.</p>
+    </div>
+  </header>
+  <main class="page" style="padding-top:0">
+    <div class="container-narrow">
+      <div class="notice-banner" id="stripe-note">Online retainers opening soon — your hold saves to this browser and our ops pipeline.</div>
+      <form id="book-form" class="card" style="padding:1.5rem">
+        <div class="field" style="margin-bottom:1rem"><label>Rental</label>
+          <select id="rentalId" required></select>
+        </div>
+        <div class="grid-2" style="margin-bottom:1rem">
+          <div class="field"><label>Check-in</label><input type="date" id="checkIn" required /></div>
+          <div class="field"><label>Check-out</label><input type="date" id="checkOut" required /></div>
+        </div>
+        <div class="grid-2" style="margin-bottom:1rem">
+          <div class="field"><label>Guests</label><input type="number" id="guests" min="1" max="20" value="4" required /></div>
+          <div class="field"><label>Full name</label><input type="text" id="guestName" required /></div>
+        </div>
+        <div class="grid-2" style="margin-bottom:1rem">
+          <div class="field"><label>Email</label><input type="email" id="guestEmail" required /></div>
+          <div class="field"><label>Phone</label><input type="tel" id="guestPhone" required /></div>
+        </div>
+        <div class="field" style="margin-bottom:1rem"><label>Notes</label><textarea id="notes" rows="3" placeholder="Complex preference, late arrival, celebration…"></textarea></div>
+        <div class="row-between">
+          <div class="muted" id="est-total">Select dates for estimate</div>
+          <button type="submit" class="btn btn-primary">Save hold</button>
+        </div>
+        <p class="muted" id="book-result" style="margin-top:1rem"></p>
+      </form>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+</body>
+</html>
